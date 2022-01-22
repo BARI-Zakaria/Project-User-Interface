@@ -1,5 +1,5 @@
     // RECUPERATION DES DONNEES JSON
-    let productData = "";
+    let productData = ""
 $(document).ready(function(){
       $.getJSON("productsman.json", function(data){
           
