@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Overlock+SC&family=Petrona:wght@500&family=Poppins&family=Roboto:wght@500&family=Rubik:ital@0;1&family=Saira:wght@200;300&family=Sanchez&family=Source+Sans+Pro:wght@300&display=swap');
+
+.pics {
+    display: flex;
+    flex-direction: row;
+}
+#women {
+    width: 50%;
+}
+#men {
+    width: 50%;
+}
+.image {
+    position: relative;
+    width: 50%;
+    height: 100%;
+}
+.image2 {
+    position: relative;
+    width: 50%;
+}
+.image__img {
+    display: block;
+    width: 100%;
+}
+.image__overlay, .image__overlay2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgb(0, 0, 0, 0.6);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.25s;
+}
+.image__overlay > * {
+    transform: translateX(20px);
+    transition: transform 0.25s;
+}
+.image__overlay2 > * {
+    transform: translateX(-20px);
+    transition: transform 0.25s;
+}
+.image__overlay:hover {
+    opacity: 1;
+}
+.image__overlay:hover * {
+    transform: translateY(0);
+} 
+.image__overlay2:hover {
+    opacity: 1;
+}
+.image__overlay2:hover > *{
+    transform: translateY(0);
+}
+.title {
+    font-family: 'Poppins', sans-serif;
+    font-size: 3em;
+    font-weight: normal;
+    cursor: pointer;
+}
+.all {
+    display: flex;
+    flex-direction: row;
+}
+.image__img2 {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+div a {
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+div a:hover {
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}

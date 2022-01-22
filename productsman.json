@@ -1,0 +1,273 @@
+[{
+    "ID": 13325658,
+    "Name": "Polo",
+    "Catégorie": "Pulls",
+    "Disponibilité": ["Tanger", "Casablanca", "Rabat"],
+    "Genre": "Homme",
+    "Fournisseur": {
+        "Ads": "VESTITEX Casablanca",
+        "RS": "Fournisseur-textile.com"
+    },
+    "Prix": "180 MAD"
+},
+
+{
+    "ID": 14465768,
+    "Name": "Polo",
+    "Catégorie": "Chemises",
+    "Disponibilité": ["Marrakech", "Salé", "Tanger", "Rabat"],
+    "Genre": "Homme",
+    "Fournisseur": {
+        "Ads": "VESTITEX Casablanca",
+        "RS": "Fournisseur-textile.com"
+    },
+    "Prix": " 80 MAD"
+},
+
+{
+    "ID": 12225446,
+    "Name": "Polo",
+    "Catégorie": "Chemises",
+    "Disponibilité": ["Casablanca"],
+    "Genre": "Homme",
+    "Fournisseur": {
+        "Ads": "VESTITEX Casablanca",
+        "RS": "Fournisseur-textile.com"
+    },
+    "Prix": " 130 MAD"
+},
+
+{
+    "ID": 11869873,
+    "Name": "Polo",
+    "Catégorie": "Capuches",
+    "Disponibilité": ["Marrakech", "Agadir", "Salé", "Essaouira"],
+    "Genre": "Homme",
+    "Fournisseur": {
+        "Ads": "VESTITEX Casablanca",
+        "RS": "Fournisseur-textile.com"
+    },
+    "Prix": " 220 MAD"
+},
+
+
+
+
+{
+    "ID": 21234556,
+    "Name": "Adidas",
+    "Catégorie": "Basckets",
+    "Disponibilité": ["Rabat", "Oujda", "Kénitra", "Tanger", "Casablanca", "Marrakech"],
+    "Genre": "Homme",
+    "Fournisseur": {
+        "Ads": "VESTITEX Casablanca",
+        "RS": "Fournisseur-textile.com"
+    },
+    "Prix": " 240 MAD"
+},
+
+{
+    "ID": 22368791,
+    "Name": "Adidas",
+    "Catégorie": "Survetements",
+    "Disponibilité": ["Rabat", "Kénitra", "Salé"],
+    "Genre": "Homme",
+    "Fournisseur": {
+        "Ads": "VESTITEX Casablanca",
+        "RS": "Fournisseur-textile.com"
+    },
+    "Prix": " 310 MAD"
+},
+
+{
+    "ID": 23451775,
+    "Name": "Adidas",
+    "Catégorie": "Capuches",
+    "Disponibilité": ["Casablanca", "Marrakech", "Kénitra", "Tanger"],
+    "Genre": "Homme",
+    "Fournisseur": {
+        "Ads": "VESTITEX Casablanca",
+        "RS": "Fournisseur-textile.com"
+    },
+    "Prix": " 230 MAD"
+},
+
+{
+    "ID": 24115604,
+    "Name": "Adidas",
+    "Catégorie": "Pulls",
+    "Disponibilité": ["Tanger"],
+    "Genre": "Homme",
+    "Fournisseur": {
+        "Ads": "VESTITEX Casablanca",
+        "RS": "Fournisseur-textile.com"
+    },
+    "Prix": " 400 MAD"
+},
+
+
+
+
+{
+    "ID": 31249291,
+    "Name": "Nike",
+    "Catégorie": "Jackets",
+    "Disponibilité": ["Marrakech"],
+    "Genre": "Homme",
+    "Fournisseur": {
+        "Ads": "VESTITEX Casablanca",
+        "RS": "Fournisseur-textile.com"
+    },
+    "Prix": " 320 MAD"
+},
+
+{
+    "ID": 32403427,
+    "Name": "Nike",
+    "Catégorie": "Survetements",
+    "Disponibilité": ["Agadir", "Essaouira", "Oujda"],
+    "Genre": "Homme",
+    "Fournisseur": {
+        "Ads": "VESTITEX Casablanca",
+        "RS": "Fournisseur-textile.com"
+    },
+    "Prix": " 250 MAD"
+},
+
+{
+    "ID": 33065812,
+    "Name": "Nike",
+    "Catégorie": "Capuches",
+    "Disponibilité": ["Kénitra", "Tanger", "Rabat", "Casablanca"],
+    "Genre": "Homme",
+    "Fournisseur": {
+        "Ads": "VESTITEX Casablanca",
+        "RS": "Fournisseur-textile.com"
+    },
+    "Prix": " 299 MAD"
+},
+
+{
+    "ID": 34120976,
+    "Name": "Nike",
+    "Catégorie": "Basckets",
+    "Disponibilité": ["Salé", "Rabat", "Essaouira", "Tanger"],
+    "Genre": "Homme",
+    "Fournisseur": {
+        "Ads": "VESTITEX Casablanca",
+        "RS": "Fournisseur-textile.com"
+    },
+    "Prix": " 180 MAD"
+},
+
+
+
+
+
+{
+    "ID": 40123665,
+    "Name": "Lacoste",
+    "Catégorie": "Survetements",
+    "Disponibilité": ["Rabat"],
+    "Genre": "Homme",
+    "Fournisseur": {
+        "Ads": "VESTITEX Casablanca",
+        "RS": "Fournisseur-textile.com"
+    },
+    "Prix": " 399 MAD"
+},
+
+{
+    "ID": 41886409,
+    "Name": "Lacoste",
+    "Catégorie": "Jackets",
+    "Disponibilité": ["Tanger", "Kénitra", "Salé"],
+    "Genre": "Homme",
+    "Fournisseur": {
+        "Ads": "VESTITEX Casablanca",
+        "RS": "Fournisseur-textile.com"
+    },
+    "Prix": " 480 MAD"
+},
+
+{
+    "ID": 42004512,
+    "Name": "Lacoste",
+    "Catégorie": "Pulls",
+    "Disponibilité": ["Oujda", "Agadir", "Marrakech"],
+    "Genre": "Homme",
+    "Fournisseur": {
+        "Ads": "VESTITEX Casablanca",
+        "RS": "Fournisseur-textile.com"
+    },
+    "Prix": " 260 MAD"
+},
+
+{
+    "ID": 43756499,
+    "Name": "Lacoste",
+    "Catégorie": "Chemises",
+    "Disponibilité": ["Essaouira", "Casablanca", "Kénitra", "Salé"],
+    "Genre": "Homme",
+    "Fournisseur": {
+        "Ads": "VESTITEX Casablanca",
+        "RS": "Fournisseur-textile.com"
+    },
+    "Prix": " 130 MAD"
+},
+
+
+
+
+{
+    "ID": 44123880,
+    "Name": "Emporio Armani",
+    "Catégorie": "Survetements",
+    "Disponibilité": ["Kénitra"],
+    "Genre": "Homme",
+    "Fournisseur": {
+        "Ads": "VESTITEX Casablanca",
+        "RS": "Fournisseur-textile.com"
+    },
+    "Prix": " 299 MAD"
+},
+
+{
+    "ID": 45786342,
+    "Name": "Emporio Armani",
+    "Catégorie": "Chemises",
+    "Disponibilité": ["Rabat", "Tanger", "Casablanca"],
+    "Genre": "Homme",
+    "Fournisseur": {
+        "Ads": "VESTITEX Casablanca",
+        "RS": "Fournisseur-textile.com"
+    },
+    "Prix": " 170 MAD"
+},
+
+{
+    "ID": 46733221,
+    "Name": "Emporio Armani",
+    "Catégorie": "Bascket",
+    "Disponibilité": ["Essaouira", "Marrakech", "Oujda"],
+    "Genre": "Homme",
+    "Fournisseur": {
+        "Ads": "VESTITEX Casablanca",
+        "RS": "Fournisseur-textile.com"
+    },
+    "Prix": " 320 MAD"
+},
+
+{
+    "ID": 47239845,
+    "Name": "Emporio Armani",
+    "Catégorie": "Jackets",
+    "Disponibilité": ["Salé", "Agadir", "Casablanca"],
+    "Genre": "Homme",
+    "Fournisseur": {
+        "Ads": "VESTITEX Casablanca",
+        "RS": "Fournisseur-textile.com"
+    },
+    "Prix": " 330 MAD"
+}
+]

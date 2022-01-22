@@ -1,0 +1,277 @@
+[
+{
+    "ID": 10997546,
+    "Name": "Bershka",
+    "Catégorie": "Survetements",
+    "Disponibilité": ["Casablanca", "Kénitra", "Tanger"],
+    "Genre": "Femme",
+    "Fournisseur": {
+        "Ads": "SoloStocks Maroc",
+        "RS": "solostocks.ma"
+    },
+    "Prix": " 700 MAD"
+},
+
+{
+    "ID": 11307542,
+    "Name": "Bershka",
+    "Catégorie": "Robes",
+    "Disponibilité": ["Agadir"],
+    "Genre": "Femme",
+    "Fournisseur": {
+        "Ads": "SoloStocks Maroc",
+        "RS": "solostocks.ma"
+    },
+    "Prix": " 560 MAD"
+},
+
+{
+    "ID": 12654997,
+    "Name": "Bershka",
+    "Catégorie": "Manteaux",
+    "Disponibilité": ["Essaouira", "Marrakech", "Rabat"],
+    "Genre": "Femme",
+    "Fournisseur": {
+        "Ads": "SoloStocks Maroc",
+        "RS": "solostocks.ma"
+    },
+    "Prix": " 899 MAD"
+},
+
+{
+    "ID": 14033456,
+    "Name": "Bershka",
+    "Catégorie": "Bottes",
+    "Disponibilité": ["Salé", "Tanger", "Oujda"],
+    "Genre": "Femme",
+    "Fournisseur": { 
+        "Ads": "SoloStocks Maroc",
+        "RS": "solostocks.ma"
+    },
+    "Prix": " 799 MAD"
+},
+
+
+
+
+
+{
+    "ID": 21754621,
+    "Name": "Zara",
+    "Catégorie": "Manteaux",
+    "Disponibilité": ["Essaouira"],
+    "Genre": "Femme",
+    "Fournisseur": {
+        "Ads": "SoloStocks Maroc",
+        "RS": "solostocks.ma"
+    },
+    "Prix": " 880 MAD"
+},
+
+{
+    "ID": 22457129,
+    "Name": "Zara",
+    "Catégorie": "Pantalons",
+    "Disponibilité": ["Kénitra", "Agadir", "Casablanca"],
+    "Genre": "Femme",
+    "Fournisseur": {
+        "Ads": "SoloStocks Maoc",
+        "RS": "solostocks.ma"
+    },
+    "Prix": " 500 MAD"
+},
+
+{
+    "ID": 23659330,
+    "Name": "Zara",
+    "Catégorie": "Tops",
+    "Disponibilité": ["Oujda", "Rabat", "Tanger"],
+    "Genre": "Femme",
+    "Fournisseur": {
+        "Ads": "SoloStocks Maroc",
+        "RS": "solostocks.ma"
+    },
+    "Prix": " 470 MAD"
+},
+
+{
+    "ID": 24785443,
+    "Name": "Zara",
+    "Catégorie": "Sacs",
+    "Disponibilité": ["Casablanca", "Kénitra", "Marrakech"],
+    "Genre": "Femme",
+    "Fournisseur": {
+        "Ads": "SoloStocks Maoc",
+        "RS": "solostocks.ma"
+    },
+    "Prix": " 379 MAD"
+},
+
+
+
+
+
+{
+    "ID": 30123456,
+    "Name": "Gucci",
+    "Catégorie": "Sacs",
+    "Disponibilité": ["Kénitra", "Oujda", "Tanger"],
+    "Genre": "Femme",
+    "Fournisseur": {
+        "Ads": "SoloStocks Maroc",
+        "RS": "solostocks.ma"
+    },
+    "Prix": " 600 MAD"
+},
+
+{
+    "ID": 31997532,
+    "Name": "Gucci",
+    "Catégorie": "Tops",
+    "Disponibilité": ["Salé"],
+    "Genre": "Femme",
+    "Fournisseur": {
+        "Ads": "SoloStocks Maroc",
+        "RS": "solostocks.ma"
+    },
+    "Prix": " 590 MAD"
+},
+
+{
+    "ID": 32076845,
+    "Name": "Gucci",
+    "Catégorie": "Bottes",
+    "Disponibilité": ["Marrakech", "Agadir", "Casablanca"],
+    "Genre": "Femme",
+    "Fournisseur": {
+        "Ads": "SoloStocks Maroc",
+        "RS": "solostocks.ma"
+    },
+    "Prix": " 1500 MAD"
+},
+
+{
+    "ID": 33862356,
+    "Name": "Gucci",
+    "Catégorie": "Vestes",
+    "Disponibilité": ["Tanger", "Rabat", "Essaouira"],
+    "Genre": "Femme",
+    "Fournisseur": {
+        "Ads": "SoloStocks Maroc",
+        "RS": "solostocks.ma"
+    },
+    "Prix": " 700 MAD"
+},
+
+
+
+
+
+{
+    "ID": 40232567,
+    "Name": "Louis Vuitton",
+    "Catégorie": "Pantalons",
+    "Disponibilité": ["Oujda"],
+    "Genre": "Femme",
+    "Fournisseur": {
+        "Ads": "SoloStocks Maroc",
+        "RS": "solostocks.ma"
+    },
+    "Prix": " 800 MAD"
+},
+
+{
+    "ID": 41566439,
+    "Name": "Louis Vuitton",
+    "Catégorie": "Vestes",
+    "Disponibilité": ["Marrakech", "Tanger", "Casablanca"],
+    "Genre": "Femme",
+    "Fournisseur": {
+        "Ads": "SoloStocks Maroc",
+        "RS": "solostocks.ma"
+    },
+    "Prix": " 790 MAD"
+},
+
+{
+    "ID": 42046873,
+    "Name": "Louis Vuitton",
+    "Catégorie": "Chemises",
+    "Disponibilité": ["Kénitra", "Rabat", "Salé"],
+    "Genre": "Femme",
+    "Fournisseur": {
+        "Ads": "SoloStocks Maroc",
+        "RS": "solostocks.ma"
+    },
+    "Prix": " 499 MAD"
+},
+
+{
+    "ID": 43003245,
+    "Name": "Louis Vuitton",
+    "Catégorie": "Robes",
+    "Disponibilité": ["Tanger", "Essaouira", "Agadir"],
+    "Genre": "Femme",
+    "Fournisseur": {
+        "Ads": "SoloStocks Maroc",
+        "RS": "solostocks.ma"
+    },
+    "Prix": " 1200 MAD"
+},
+
+
+
+
+
+{
+    "ID": 44796401,
+    "Name": "Prada",
+    "Catégorie": "Robes",
+    "Disponibilité": ["Casablanca", "Tanger", "Rabat"],
+    "Genre": "Femme",
+    "Fournisseur": {
+        "Ads": "SoloStocks Maroc",
+        "RS": "solostocks.ma"
+    },
+    "Prix": " 699 MAD"
+},
+
+{
+    "ID": 45212965,
+    "Name": "Prada",
+    "Catégorie": "Chemises",
+    "Disponibilité": ["Tanger"],
+    "Genre": "Femme",
+    "Fournisseur": {
+        "Ads": "SoloStocks Maroc",
+        "RS": "solostocks.ma"
+    },
+    "Prix": " 299 MAD"
+},
+
+{
+    "ID": 46771239,
+    "Name": "Prada",
+    "Catégorie": "Pantalons",
+    "Disponibilité": ["Agadir", "Essaouira", "Marrakech", "Kénitra"],
+    "Genre": "Femme",
+    "Fournisseur": {
+        "Ads": "SoloStocks Maroc",
+        "RS": "solostocks.ma"
+    },
+    "Prix": " 700 MAD"
+},
+
+{
+    "ID": 47232196,
+    "Name": "Prada",
+    "Catégorie": "Bottes",
+    "Disponibilité": ["Tanger", "Casablanca", "Rabat", "Marrakech"],
+    "Genre": "Femme",
+    "Fournisseur": {
+        "Ads": "SoloStocks Maroc",
+        "RS": "solostocks.ma"
+    },
+    "Prix": " 1200 MAD"
+}
+]

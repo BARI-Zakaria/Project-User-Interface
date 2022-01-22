@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Overlock+SC&family=Petrona:wght@500&family=Poppins&family=Roboto:wght@500&family=Rubik:ital@0;1&family=Saira:wght@200;300&family=Sanchez&family=Source+Sans+Pro:wght@300&display=swap');
+
+                        /* 00000000 HEADER'S CSS 00000000000 */
+/* header {
+    position: fixed;
+    width: 100%;
+} */
+
+nav {
+    background-image: url(images/Group\ 6.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.sexe ul  {
+    display: flex;
+    flex-direction: row;
+}
+.sexe ul li {
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 5px;
+    cursor: pointer;
+}
+.sexe a {
+    list-style: none;
+    text-decoration: none;
+    color: #fff;
+}
+.sexe a:hover {
+    list-style: none;
+    text-decoration: none;
+    color: #fff;
+}
+.ligne {
+    width: 2px;
+    height: 40px;
+    background: #fff;
+    margin: 0 15px 0 0;
+}
+#account {
+    border: 0;
+    border-radius: 5px;
+    background-color: #fff;
+    font-family: 'Poppins', sans-serif;
+}
+.compte {
+    padding: 0 0 0 10px;
+}
+input {
+    background: rgba(255, 255, 255, 0.5);
+    border: 0;
+    border-radius: 10px;
+    width: 244px;
+    height: 27px;
+}
+::placeholder {
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1em;
+    font-weight: normal;
+    text-align: center;
+}
+#img {
+    width: 70%;
+    margin: 0 0 0 20%;
+}
+#iicon {
+    width: 5%;
+}
+
+
+
+                        /* 00000000 MAIN'S CSS 00000000000 */
+#marocshop {
+    width: 100%;
+}
+
+#desc {
+    background-image: url(images/Group\ 7.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    line-height: 2;
+    /* margin: 10% 0 0 0; */
+    padding: 0 50px;
+    width: 100%;
+}
+
+
+
+                        /* 00000000 FOOTER'S CSS 00000000000 */
+footer {
+    background-image: url(images/Group\ 6.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.all {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0 0 0 50px;
+}
+.mdp {
+    width: 15%;
+    margin: 0 0 0 10%;
+    cursor: pointer;
+}
+.items1, .items2, .items3 {
+    width: 100%;
+    height: 100%;
+}
+.items2 {
+    padding: 0 0 0 20%;
+}
+.items3 {
+    padding: 0 0 0 20%;
+}
+.fab {
+    width: 10%;
+    padding: 0 0 0 7%;
+    cursor: pointer;
+    color: #fff;
+}
+h3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1em;
+    color: #fff;
+}
+p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.2em;
+    padding: 0 0 0 20%;
+}
+p a {
+    text-decoration: none;
+    list-style: none;
+    color: #fff;
+}
+#copyright {
+    padding: 0 0 0 40%;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+    background-color: black;
+    color: #fff;
+}
