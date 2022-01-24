@@ -1,7 +1,7 @@
     // RECUPERATION DES DONNEES JSON
     let productData = ""
 $(document).ready(function(){
-      $.getJSON("productsman.json", function(data){
+      $.getJSON("productswomen.json", function(data){
           
           $.each(data, function(key, value){
             productData += '<tr>';
@@ -13,11 +13,10 @@ $(document).ready(function(){
             productData += '<td>'+ value.Prix + '</td>';
             productData += "</tr>";
           })
-          $('#sortman').append(productData);
+          $('#sortWomen').append(productData);
       });
     });
-
-    // METHOD RECHERCHE
+        // METHOD RECHERCHE
 
     $(document).ready(function(){
       $("#srh").on("keyup", function() {
@@ -26,19 +25,18 @@ $(document).ready(function(){
           $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
         });
       });
-    });
+    }); 
 
 
-    
-    // SORT METHOD
+        // SORT METHOD
 
     function sortTable(column, type) {
 
       //Get and set order
       //Use -data to store wheater it will be sorted ascending or descending
-      var order = $('#sortman thead tr>th:eq(' + column + ')').data('order');
+      var order = $('#sortWomen thead tr>th:eq(' + column + ')').data('order');
       order = order === 'ASC' ? 'DESC' : 'ASC';
-      $('#sortman thead tr>th:eq(' + column + ')').data('order', order);
+      $('#sortWomen thead tr>th:eq(' + column + ')').data('order', order);
   
   
       $('#myTable tr').sort(function(a, b) {
@@ -55,7 +53,7 @@ $(document).ready(function(){
   
         }
   
-      }).appendTo('#sortman tbody');
+      }).appendTo('#sortWomen tbody');
     }
     $('#id').click(function() {
       sortTable(0, 'text');
@@ -75,4 +73,4 @@ $(document).ready(function(){
     $('#FOUR').click(function() {
       sortTable(5, 'text');
     });
-
+    
